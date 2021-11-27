@@ -1,0 +1,10 @@
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+body {
+  background-color: rgb(1, 2, 15);
+}
+h1 {
+  color: gold;
+}
+h2 {
+    color: whitesmoke;
+}
